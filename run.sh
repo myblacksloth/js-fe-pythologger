@@ -1,0 +1,20 @@
+#!/bin/bash
+
+
+# js-fe-pythologger
+# Copyright (C) 2026 Antonio Maulucci (https://github.com/myblacksloth)
+#
+# Questo programma è software libero: puoi ridistribuirlo e/o modificarlo
+# secondo i termini della GNU Affero General Public License come pubblicata
+# dalla Free Software Foundation, versione 3 della Licenza.
+#
+# Questo programma è distribuito nella speranza che sia utile, ma SENZA
+# ALCUNA GARANZIA; senza neppure la garanzia implicita di COMMERCIABILITÀ
+# o di IDONEITÀ PER UN PARTICOLARE SCOPO. Vedi la GNU Affero General Public License
+# per maggiori dettagli.
+#
+# Dovresti aver ricevuto una copia della GNU Affero General Public License
+# insieme a questo programma. In caso contrario, vedi <https://www.gnu.org/licenses/>.
+
+source venv/bin/activate
+python3 -m src.main
